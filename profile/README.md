@@ -18,7 +18,7 @@
 
 ## 🚀 Nossos Projetos
 
-### [MonitorEdu](https://github.com/3DBMonitoraEdu/MonitorEdu)
+### [MonitorEdu](https://github.com/3DBMonitoraEdu/TCC)
 A solução principal para monitoramento e análise de instituições educacionais.
 
 **Status**: Desenvolvimento Ativo  
@@ -81,4 +81,4 @@ Nossas soluções aproveitam tecnologias modernas e as melhores práticas em:
 
 **Feito com ❤️ pelo Time 3DBMonitoraEdu**
 
-*Última Atualização: Junho 2026*
+*Última Atualização: Agosto 2026*
